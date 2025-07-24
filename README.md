@@ -15,8 +15,8 @@
 [![SVG Standard](https://img.shields.io/badge/SVG-W3C-blueviolet?style=for-the-badge\&logo=svg\&logoColor=white)](https://developer.mozilla.org/docs/Web/SVG) <br>
 [![SVG Documentation](https://img.shields.io/badge/SVG_Documentation-blue?style=flat-square)](https://developer.mozilla.org/docs/Web/SVG/Element/svg)
 [![SVG Tutorials](https://img.shields.io/badge/SVG_Tutorials-green?style=flat-square)](https://github.com/topics/svg) <br>
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![License: Q-CDA](./LICENSE-QCDA)](./LICENSE-QCDA)</a>
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg"
+alt="License: Q-CDA"></a>
 
 </p>
 
@@ -30,7 +30,6 @@
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
 * [![Attention Mechanism](./assets/attention.svg)](./assets/attention.svg) Attention Mechanism
-* [![Qompass SVG Logo](./assets/svg_logo.svg)](./assets/svg_logo.svg) Qompass SVG
 * [![Qompass Monero QR-Code](./assets/monero-qr.svg)](./assets/monero-qr.svg) Qompass AI Monero SVG
 
   </div>
