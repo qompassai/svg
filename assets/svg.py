@@ -13,5 +13,5 @@ def change_svg_fill(svg_path: str, fill_color: str = "white", output_path: str =
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
     print(f"Updated SVG fill set to {fill_color} for {output_file}")
 
-change_svg_fill('monero-qr.svg', '#7DF9FF', 'monero-qr-blue.svg')
+change_svg_fill('attention.svg', '#7DF9FF', 'attention.svg')
 
