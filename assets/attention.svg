@@ -1,0 +1,6 @@
+<!--
+  /qompassai/latex/assets/attention.svg
+  Qompass AI - Attention Mechanism Equation
+  Copyright (C) 2025 Qompass AI, All rights reserved
+-->
+\text{Attention}(Q, K, V) = \text{softmax}\left( \frac{QK^T}{\sqrt{d_k}} \right) V
