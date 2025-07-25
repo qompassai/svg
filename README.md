@@ -75,14 +75,14 @@ alt="License: Q-CDA"></a>
       <div style="
         display: flex; justify-content: center; align-items: center; height: 120px;
         background: #fff; border-radius: 10px;">
-        <a href="./assets/attention.svg" download style="display: inline-block;">
-          <img src="./assets/attention.svg" alt="Attention Mechanism"
+        <a href="./assets/attention2.svg" download style="display: inline-block;">
+          <img src="./assets/attention2.svg" alt="Attention Mechanism"
             style="height:80px; max-width:220px; border:2px solid #7DF9FF; border-radius:10px; padding:8px; box-shadow: 0 1px 5px #0ff4;">
         </a>
       </div>
     </td>
     <td style="background: #282e37; text-align: center; vertical-align: middle;">
-      <a href="./assets/attention.svg" download style="color: #15ffd2; font-size:1.1em; text-decoration: underline;">
+      <a href="./assets/attention2.svg" download style="color: #15ffd2; font-size:1.1em; text-decoration: underline;">
         Download
       </a>
     </td>
