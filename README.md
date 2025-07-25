@@ -1,10 +1,7 @@
-<!-- /qompassai/svg/README.md -->
-
+<!----------- /qompassai/svg/README.md ------------------->
 <!---------------- Qompass AI SVGs ----------------------->
-
-<!-- -------------------------------------------------- -->
-
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+<!-- -------------------------------------------------- -->
 
 <h2> Qompass AI on Scalable Vector Graphics (SVG) </h2>
 
