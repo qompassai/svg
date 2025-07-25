@@ -26,8 +26,24 @@ alt="License: Q-CDA"></a>
   </summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-* [![Attention Mechanism](./assets/attention.svg)](./assets/attention.svg)
-* [![Qompass Monero QR-Code](./assets/monero-qr.svg)](./assets/monero-qr.svg)
+<table style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th style="padding:12px;">Attention Mechanism</th>
+    <th style="padding:12px;">Qompass Monero QR-Code</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="./assets/attention.svg">
+        <img src="./assets/attention.svg" alt="Attention Mechanism" style="height:80px; padding:6px; border:1px solid #cccccc; border-radius:8px;">
+      </a>
+    </td>
+    <td>
+      <a href="./assets/monero-qr.svg">
+        <img src="./assets/monero-qr.svg" alt="Qompass Monero QR-Code" style="height:80px; padding:6px; border:1px solid #cccccc; border-radius:8px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
   </div>
 
