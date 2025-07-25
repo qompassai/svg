@@ -26,21 +26,42 @@ alt="License: Q-CDA"></a>
   </summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-<table style="border-collapse: collapse; text-align: center;">
+<table style="
+  border-collapse: collapse; 
+  margin: 1em auto;
+  min-width: 300px;
+  background: var(--table-bg, #23272e);
+  color: var(--table-fg, #fafbfc);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.11);
+">
   <tr>
-    <th style="padding:12px;">Attention Mechanism</th>
-    <th style="padding:12px;">Qompass Monero QR-Code</th>
+    <th style="padding:16px 12px; text-align: left; background: #667eea; color: #fff; width:180px; min-width:120px;">SVG Asset</th>
+    <th style="padding:16px 12px; text-align: center; background: #667eea; color: #fff; min-width:200px;">
+      Preview &nbsp; / &nbsp; <span style="font-weight: normal;">Download</span>
+    </th>
   </tr>
   <tr>
-    <td>
-      <a href="./assets/attention.svg">
-        <img src="./assets/attention.svg" alt="Attention Mechanism" style="height:80px; padding:6px; border:1px solid #cccccc; border-radius:8px;">
+    <td style="font-weight: bold; padding: 16px 12px; background: #282e37;">Qompass Monero QR-Code</td>
+    <td style="text-align: center; background: #22272e;">
+      <a href="./assets/monero-qr.svg" download style="display:inline-block;">
+        <img src="./assets/monero-qr.svg" alt="Qompass AI Monero QR-Code"
+             style="height:120px; max-width:160px; background: #fff; border:2px solid #7DF9FF; border-radius:10px; padding:8px; box-shadow: 0 1px 5px #0ff4;">
       </a>
+      <br>
+      <a href="./assets/monero-qr.svg" download style="color:#15ffd2;font-size: 1em;text-decoration: underline;">Download</a>
     </td>
-    <td>
-      <a href="./assets/monero-qr.svg">
-        <img src="./assets/monero-qr.svg" alt="Qompass Monero QR-Code" style="height:80px; padding:6px; border:1px solid #cccccc; border-radius:8px;">
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding: 16px 12px; background: #282e37;">Attention Mechanism</td>
+    <td style="text-align: center; background: #22272e;">
+      <a href="./assets/attention.svg" download style="display:inline-block;">
+        <img src="./assets/attention.svg" alt="Attention Mechanism"
+             style="height:80px; max-width:220px; background: #fff; border:2px solid #7DF9FF; border-radius:10px; padding:8px; box-shadow: 0 1px 5px #0ff4;">
       </a>
+      <br>
+      <a href="./assets/attention.svg" download style="color:#15ffd2; font-size:1em; text-decoration: underline;">Download</a>
     </td>
   </tr>
 </table>
