@@ -26,8 +26,8 @@ alt="License: Q-CDA"></a>
   </summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-* [![Attention Mechanism](./assets/attention.svg)](./assets/attention.svg) Attention Mechanism
-* [![Qompass Monero QR-Code](./assets/monero-qr.svg)](./assets/monero-qr.svg) Qompass AI Monero SVG
+* [![Attention Mechanism](./assets/attention.svg)](./assets/attention.svg)
+* [![Qompass Monero QR-Code](./assets/monero-qr.svg)](./assets/monero-qr.svg)
 
   </div>
 
@@ -39,8 +39,8 @@ alt="License: Q-CDA"></a>
   </summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-```bash
-bash <(curl -L https://raw.githubusercontent.com/qompassai/svg/main/scripts/quickstart.sh)
+```sh
+curl -L https://raw.githubusercontent.com/qompassai/svg/main/scripts/quickstart.sh
 ```
 
   </div>
