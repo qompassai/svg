@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+  /qompassai/svg/assets/qxet.svg
+  Qompass AI Qxet SVG
+  Copyright (C) 2025 Qompass AI, All rights reserved
+-->
+<svg width="420" height="440" xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="14">
+  <metadata>
+    /qompassai/svg/assets/qxet.svg
+    Copyright (C) 2025 Qompass AI, All rights reserved.
+  </metadata>
+<svg width="420" height="440" xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="14">
+  <rect x="110" y="10" width="200" height="40" fill="#f3f3f3" stroke="#666"/>
+  <text x="120" y="35">Your Files (Models/Datasets)</text>
+  <rect x="110" y="65" width="200" height="50" fill="#e2f7fa" stroke="#4588c2"/>
+  <text x="125" y="95">QXet Chunk Deduplication</text>
+  <rect x="10" y="135" width="160" height="50" fill="#e3ffe0" stroke="#34aa1f"/>
+  <text x="20" y="165">Content-Addressed Storage</text>
+  <rect x="250" y="135" width="160" height="50" fill="#fffbe0" stroke="#a38e1b"/>
+  <text x="260" y="165">Local Disk Cache</text>
+  <rect x="10" y="205" width="160" height="40" fill="#fafafc" stroke="#999"/>
+  <text x="20" y="230">LFS Bridge (Legacy)</text>
+  <rect x="110" y="255" width="180" height="45" fill="#f0ecff" stroke="#6345a6"/>
+  <text x="120" y="285">Hugging Face Hub / QXet API</text>
+  <rect x="110" y="320" width="180" height="40" fill="#eaf5fc" stroke="#338eb4"/>
+  <text x="150" y="345">Users Collaborate</text>
+  <!-- arrows -->
+  <line x1="210" y1="50" x2="210" y2="65" marker-end="url(#arrow)" stroke="#888"/>
+  <line x1="210" y1="115" x2="90" y2="135" marker-end="url(#arrow)" stroke="#888"/>
+  <line x1="210" y1="115" x2="330" y2="135" marker-end="url(#arrow)" stroke="#888"/>
+  <line x1="90" y1="185" x2="90" y2="205" marker-end="url(#arrow)" stroke="#888"/>
+  <line x1="90" y1="245" x2="200" y2="255" marker-end="url(#arrow)" stroke="#888"/>
+  <line x1="200" y1="300" x2="200" y2="320" marker-end="url(#arrow)" stroke="#888"/>
+  <defs>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 7,3.5 0,7" fill="#888"/>
+    </marker>
+  </defs>
+</svg>
+
