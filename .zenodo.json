@@ -1,0 +1,19 @@
+{
+  "title": "svg",
+  "creators": [
+    {
+      "name": "Porter, Matthew A.",
+      "affiliation": "Qompass AI",
+      "orcid": "0000-0002-0302-4812"
+    }
+  ],
+  "description": "Qompass AI on SVG",
+  "license": {
+  "id": "other",
+  "title": "Qompass AI Commercial Distribution License & AGPL 3.0",
+  "url": "https://github.com/qompassai/license"},
+  "upload_type": "software",
+  "version": "2025-07-29",
+  "publication_date": "2025-07-29",
+  "access_right": "open"
+}
