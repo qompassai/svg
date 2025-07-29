@@ -1,0 +1,40 @@
+<svg viewBox="0 0 128 80" xmlns="http://www.w3.org/2000/svg" aria-label="QompassAI PHP Elephant Logo">
+    <!--
+  /qompassai/svg/assets/icons/rust.svg
+  Qompass AI Rust SVG
+  Copyright (C) 2025 Qompass AI, All rights reserved
+-->
+  <defs>
+    <style>
+      .elephpant-body {
+        fill: var(--elephpant-primary, #8870c7);
+        transition: fill 0.25s;
+      }
+      .elephpant-accent {
+        fill: var(--elephpant-accent, #ffffff);
+        transition: fill 0.25s;
+      }
+      .elephpant-eye {
+        fill: var(--elephpant-eye, #222);
+        transition: fill 0.25s;
+      }
+      @media (prefers-color-scheme: dark) {
+        .elephpant-body { fill: var(--elephpant-primary-dark, #b6a7e4); }
+        .elephpant-accent { fill: var(--elephpant-accent-dark, #222); }
+        .elephpant-eye { fill: var(--elephpant-eye-dark, #fff); }
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="elephpant-body" cx="64" cy="48" rx="44" ry="26"/>
+    <ellipse class="elephpant-accent" cx="52" cy="62" rx="10" ry="6"/>
+    <ellipse class="elephpant-accent" cx="76" cy="62" rx="10" ry="6"/>
+    <ellipse class="elephpant-eye" cx="52" cy="48" rx="2" ry="2.5"/>
+    <text x="64" y="54" text-anchor="middle" font-family="Verdana, Tahoma, Geneva, sans-serif"
+          font-size="16" font-weight="bold" class="elephpant-accent" style="letter-spacing:2px;">
+      php
+    </text>
+    <path class="elephpant-body" d="M32,60 Q25,68 32,74" stroke-width="4" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
+
