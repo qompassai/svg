@@ -1,1 +1,12 @@
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><path d="M84.466 0L63.887 36.578H22.756L43.321 0z" opacity=".45"/><path d="M63.887 36.576h41.145L84.468 0H43.323z" opacity=".6"/><path d="M43.323 73.138l20.565-36.562L43.323 0 22.759 36.576z" opacity=".8"/><path d="M43.521 128L64.1 91.424h41.145L84.666 128z" opacity=".45"/><path d="M64.1 91.426H22.955l20.564 36.575h41.145z" opacity=".6"/><path d="M84.666 54.864L64.102 91.426l20.564 36.575 20.579-36.575z" opacity=".8"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.5 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+<path d="M0,0 L2,0 L18,28 L34,55 L49,81 L63,105 L67,112 L67,114 L-65,114 L-64,109 L-50,85 L-36,61 L-22,37 L-8,13 Z " fill="#218AE5" transform="translate(245,358)"/>
+<path d="M0,0 L132,0 L131,5 L117,29 L103,53 L89,77 L75,101 L67,114 L65,114 L49,86 L33,59 L18,33 L4,9 L0,2 Z " fill="#218AE5" transform="translate(200,40)"/>
+<path d="M0,0 L3,1 L17,25 L31,49 L45,73 L59,97 L67,111 L67,113 L-65,113 L-59,101 L-43,74 L-28,48 L-14,24 Z " fill="#218AE6" transform="translate(328,215)"/>
+<path d="M0,0 L132,0 L126,12 L110,39 L95,65 L81,89 L67,113 L64,112 L50,88 L36,64 L22,40 L8,16 L0,2 Z " fill="#218AE5" transform="translate(117,184)"/>
+<path d="M0,0 L132,0 L130,6 L114,33 L99,59 L85,83 L71,107 L67,113 L65,113 L49,85 L33,58 L18,32 L4,8 Z " fill="#218AE5" transform="translate(263,348)"/>
+<path d="M0,0 L132,0 L130,6 L117,28 L103,52 L89,76 L75,100 L67,113 L65,113 L50,87 L36,63 L22,39 L8,15 L0,1 Z " fill="#218BE6" transform="translate(96,348)"/>
+<path d="M0,0 L2,0 L17,26 L31,50 L45,74 L59,98 L67,112 L67,113 L-65,113 L-63,107 L-50,85 L-36,61 L-22,37 L-8,13 Z " fill="#218AE6" transform="translate(349,51)"/>
+<path d="M0,0 L2,0 L18,28 L34,55 L49,81 L63,105 L67,113 L-65,113 L-63,107 L-47,80 L-32,54 L-18,30 L-4,6 Z " fill="#218AE5" transform="translate(182,51)"/>
+</svg>
